@@ -1,0 +1,25 @@
+{
+  "name": "dmon777/string-modifier",
+  "description": "You can change string as you like with this library",
+  "keywords": ["string"],
+  "license": "MIT",
+  "minimum-stability" : "dev",
+  "authors": [
+    {
+      "name": "Bessalov Dima",
+      "email": "d.mon110kg@gmail.com"
+    }
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dmon777\\StringModifier\\": "src/"
+    }
+  }
+}
