@@ -35,7 +35,10 @@ class StrMod
         return str_replace($rus, $lat, $str);
     }
 
-
+    public static function test()
+    {
+        echo "test";
+    }
 
 
 
