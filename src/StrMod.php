@@ -40,6 +40,11 @@ class StrMod
         echo "test";
     }
 
+    public static function test2()
+    {
+        echo "test2";
+    }
+
 
 
 }
